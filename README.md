@@ -6,7 +6,7 @@ html5ready
 
 What's included:
 * initial index.html based on html5boilertemplate
-..* nomalize.css
-..* modernizr.js
-..* jquery
-..* ie compatible comments
+ * nomalize.css
+ * modernizr.js
+ * jquery
+ * ie compatible comments
